@@ -1,0 +1,17 @@
+.main {
+    max-width: 80vw;
+    margin: auto;
+}
+
+.main h1 {
+    margin: 10px;
+    text-align: center;
+}
+
+.blogItem {
+    margin: 25px;
+}
+
+.blogItem h3 {
+    margin: 3px;
+}
